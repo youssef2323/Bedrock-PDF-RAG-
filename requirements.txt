@@ -1,0 +1,10 @@
+boto3 ## library help to connect all the services that we have in amazon bedrock
+awscli
+pypdf
+langchain
+streamlit
+faiss-cpu
+langchain-aws
+langchain-community
+langchain_aws
+langchain-cli
