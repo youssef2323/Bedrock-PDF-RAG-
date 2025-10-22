@@ -12,7 +12,6 @@ A Streamlit app that loads PDFs from a local `data/` folder (e.g., **Attention**
 ![](Sreenshots/3.png)
 ![](Screenshots/4.png)
 ![](Screenshots/5.png)
-> Put images in a top-level `screenshots/` folder and use simple names like `01-home.png`, `02-vectors-update.png`, etc.
 
 ---
 
@@ -70,5 +69,6 @@ A Streamlit app that loads PDFs from a local `data/` folder (e.g., **Attention**
 
 ## License
 MIT
+
 
 
